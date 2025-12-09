@@ -4,7 +4,7 @@ Name: Muhammad Dafi Arib Asyrofi
 ID: 2902718944
 
 This is the original page.
-![original page](readme_images/initial_design.png)
+![original page](readme_images/initial-design.png)
 
 This is the improvement page, I changed several things to make it look better as the homepage.
 ![sign up page](readme_images/layout-and-structure.png)
